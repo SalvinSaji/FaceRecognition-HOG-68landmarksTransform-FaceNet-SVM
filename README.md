@@ -3,10 +3,10 @@ A Face Recognition system to take attendance from the class
 
 ## Steps to use 
 
-##Step 1
+### Step 1
 download the pre-trained model shape_predictor_68_face_landmarks.dat. As it is used to detect the 68 landmarks of the face. Also install all module required as they pop up.
 
-# Step 2
+### Step 2
 run faceTransformTrain.py after properly placing the images to train (as given) in the train_img directory. It will detect faces and store their transformed versions into a directory(which will be created) named outdirtrain
 
 # Step 3 

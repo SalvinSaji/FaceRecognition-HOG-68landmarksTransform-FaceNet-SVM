@@ -3,7 +3,7 @@ A Face Recognition system to take attendance from the class
 
 ## Steps to use 
 
-# Step 1
+##Step 1
 download the pre-trained model shape_predictor_68_face_landmarks.dat. As it is used to detect the 68 landmarks of the face. Also install all module required as they pop up.
 
 # Step 2
